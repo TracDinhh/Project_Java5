@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ContronllerApplication<contronller>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "poly.edu.contronller.ContronllerApplication",
+            "projectName": "contronller",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
